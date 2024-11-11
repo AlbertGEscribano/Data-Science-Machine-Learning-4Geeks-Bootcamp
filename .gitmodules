@@ -1,0 +1,6 @@
+[submodule "1.Prework/1.python-beginner-programming-exercises-Python-Interactively"]
+	path = 1.Prework/1.python-beginner-programming-exercises-Python-Interactively
+	url = https://github.com/AlbertGEscribano/1.python-beginner-programming-exercises-Python-Interactively.git
+[submodule "1.python-beginner-programming-exercises-Python-Interactively"]
+    path = 1.Prework/1.python-beginner-programming-exercises-Python-Interactively
+    url = https://github.com/AlbertGEscribano/1.python-beginner-programming-exercises-Python-Interactively.git
